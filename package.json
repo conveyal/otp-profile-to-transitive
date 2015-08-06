@@ -1,0 +1,25 @@
+{
+  "name": "otp-profile-to-transitive",
+  "version": "0.0.1",
+  "description": "Format OTP profile output to a format transitive can consume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conveyal/otp-profile-to-transitive.git"
+  },
+  "keywords": [
+    "opentripplanner"
+  ],
+  "author": "Conveyal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conveyal/otp-profile-to-transitive/issues"
+  },
+  "homepage": "https://github.com/conveyal/otp-profile-to-transitive#readme",
+  "dependencies": {
+    "component-each": "^0.2.6"
+  }
+}
