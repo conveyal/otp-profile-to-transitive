@@ -1,10 +1,4 @@
-var each
-
-try {
-  each = require('each')
-} catch (e) {
-  each = require('component-each')
-}
+var each = require('component-each')
 
 /**
  * Convert OTP data into a consumable format
