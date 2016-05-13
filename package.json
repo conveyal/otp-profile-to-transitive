@@ -1,6 +1,6 @@
 {
   "name": "otp-profile-to-transitive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Format OTP profile output to a format transitive can consume",
   "main": "index.js",
   "scripts": {
