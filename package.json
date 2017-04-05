@@ -23,6 +23,6 @@
     "component-each": "^0.2.6"
   },
   "devDependencies": {
-    "standard": "^8.3.0"
+    "standard": "^10.0.0"
   }
 }
